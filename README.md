@@ -18,18 +18,24 @@ Python Projects
   ii) GUI-based Calculator (Basic and Advanced): Includes both a basic and advanced version of a graphical user interface (GUI) calculator developed using Python.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Folder Structure:
+
 VLSI/: Contains Verilog projects.
 Python/: Includes Python projects.
 Each project folder contains the necessary files and documentation specific to that project.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Future Updates
+Future Updates:
+
 GUI versions for the Command Line Contact Book and Todo List projects will be added soon.
 Stay tuned for more exciting projects and updates!
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-How to Use
+How to Use:
+
 Clone the repository to your local machine using git clone.
 Navigate to the respective project folder (verilog/ or python/) for the project you want to explore.
 Follow the instructions provided in the README files within each project folder for setup and execution details.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Contributions:
 Contributions are welcome! If you have suggestions, improvements, or new project ideas, feel free to fork the repository and submit a pull request.
