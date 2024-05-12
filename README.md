@@ -1,4 +1,4 @@
-**Project Repository**
+Project Repository
 Welcome to my project repository containing projects developed in Verilog VLSI and Python programming languages.
 
 Verilog VLSI Projects
