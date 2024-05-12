@@ -20,8 +20,9 @@ Python Projects
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Folder Structure:
 
-VLSI/: Contains Verilog projects.
-Python/: Includes Python projects.
+1. VLSI/: Contains Verilog projects.
+2. Python/: Includes Python projects.
+3. 
 Each project folder contains the necessary files and documentation specific to that project.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
