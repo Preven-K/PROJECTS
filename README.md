@@ -4,8 +4,8 @@ Welcome to my project repository containing projects developed in Verilog VLSI a
 
 Verilog VLSI Projects
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1.** 4-bit Parallel Shifter**: Implements a 4-bit parallel shifter in Verilog.
-2. **8-bit Parallel Shifter**: Design and implementation of an 8-bit parallel shifter in Verilog.
+1. 4-bit Parallel Shifter: Implements a 4-bit parallel shifter in Verilog.
+2. 8-bit Parallel Shifter: Design and implementation of an 8-bit parallel shifter in Verilog.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Python Projects
