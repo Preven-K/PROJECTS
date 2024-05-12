@@ -15,8 +15,8 @@ Python Projects
 3. Contact Book: Manages contacts through a command-line interface, providing functionalities like adding, updating, and deleting contacts.
 4. To-do List: A simple todo list application in Python, allowing users to manage tasks through the command line interface.
 5. Calculator Application:
-   i. Simple Command Line Calculator: Basic calculator operations implemented in Python and executed through the command line.
-   ii. GUI-based Calculator (Basic and Advanced): Includes both a basic and advanced version of a graphical user interface (GUI) calculator developed using Python.
+   1. Simple Command Line Calculator: Basic calculator operations implemented in Python and executed through the command line.
+   2. GUI-based Calculator (Basic and Advanced): Includes both a basic and advanced version of a graphical user interface (GUI) calculator developed using Python.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Folder Structure:
 
