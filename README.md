@@ -38,5 +38,7 @@ Follow the instructions provided in the README files within each project folder 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Contributions:
+
 Contributions are welcome! If you have suggestions, improvements, or new project ideas, feel free to fork the repository and submit a pull request.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
