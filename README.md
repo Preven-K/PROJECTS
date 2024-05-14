@@ -6,6 +6,7 @@ Verilog VLSI Projects
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. 4-bit Parallel Shifter: Implements a 4-bit parallel shifter in Verilog.
 2. 8-bit Parallel Shifter: Design and implementation of an 8-bit parallel shifter in Verilog.
+3. Restoring Division: Implementing 64-Bit Restoring Division in Verilog
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Python Projects
