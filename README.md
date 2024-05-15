@@ -30,7 +30,9 @@ Each project folder contains the necessary files and documentation specific to t
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Future Updates:
 
-GUI versions for the Command Line Contact Book and Todo List projects will be added soon.
+1. Array multiplier
+2. GUI Calc with History tracking
+3. 4-Bit ALU
 Stay tuned for more exciting projects and updates!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
