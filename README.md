@@ -6,8 +6,10 @@ Verilog VLSI Projects
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. 4-bit Parallel Shifter: Implements a 4-bit parallel shifter in Verilog.
 2. 8-bit Parallel Shifter: Design and implementation of an 8-bit parallel shifter in Verilog.
-3. Restoring Division: Implementing 64-Bit Restoring Division Algorithm in Verilog
+3. Restoring Division: Implementing 64-Bit Restoring Division Algorithm in Verilog.
 4. Non Restoring Division: Implementing 64-Bit Non Restoring Division Algoritnm in Verilog
+5. High Radix Multiplication: this involves 32-Bit multiplication in Verilog.
+6. Arithmetic Logic Unit: Implemented the arithmetic and logical operation in ALU using Verilog.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Python Projects
@@ -38,10 +40,8 @@ Each project folder contains the necessary files and documentation specific to t
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Future Updates:
 
-1. Array multiplier
+1. 50days RTL challenge
 2. GUI Calc with History tracking
-3. 4-Bit ALU
-4. 50days RTL challenge
 Stay tuned for more exciting projects and updates!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
