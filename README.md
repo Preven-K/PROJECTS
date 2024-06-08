@@ -24,6 +24,7 @@ Folder Structure:
 
 1. VLSI/: Contains Verilog projects.
 2. Python/: Includes Python projects.
+3. Java/: Includes Projects in Java.
 
 Each project folder contains the necessary files and documentation specific to that project.
 
@@ -33,13 +34,14 @@ Future Updates:
 1. Array multiplier
 2. GUI Calc with History tracking
 3. 4-Bit ALU
+4. 50days RTL challenge
 Stay tuned for more exciting projects and updates!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 How to Use:
 
 Clone the repository to your local machine using git clone.
-Navigate to the respective project folder (verilog/ or python/) for the project you want to explore.
+Navigate to the respective project folder (verilog/ or python/ or Java/) for the project you want to explore.
 Follow the instructions provided in the README files within each project folder for setup and execution details.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
