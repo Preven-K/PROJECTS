@@ -20,6 +20,13 @@ Python Projects
    1. Simple Command Line Calculator: Basic calculator operations implemented in Python and executed through the command line.
    2. GUI-based Calculator (Basic and Advanced): Includes both a basic and advanced version of a graphical user interface (GUI) calculator developed using Python.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Java Projects
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. ToDo list Application: Implements todo list with adding, mark as completed, displaying and deleting the tasks.
+2. Library Book Management : Designed library management system with various functionalities.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Folder Structure:
 
 1. VLSI/: Contains Verilog projects.
