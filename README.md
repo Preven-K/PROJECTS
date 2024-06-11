@@ -1,12 +1,6 @@
 Project Repository
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Welcome to my project repository containing projects developed in Verilog VLSI and Python programming languages.
-
-50 Days Verilog Challenge
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1. Basic Gates : this contains all the basic gate on diffrent modelling types.
-2. Adders : This contains half, full, ripple carry, carry lookahead adders.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Welcome to my project repository containing projects developed in Verilog VLSI and Java and Python programming languages.
 
 Verilog VLSI Projects
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
