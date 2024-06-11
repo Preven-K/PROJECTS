@@ -34,6 +34,7 @@ Folder Structure:
 1. VLSI/: Contains Verilog projects.
 2. Python/: Includes Python projects.
 3. Java/: Includes Projects in Java.
+4. 50Days Verilog Challenge/: Includes all the verilog projects from Day 1.
 
 Each project folder contains the necessary files and documentation specific to that project.
 
