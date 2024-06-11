@@ -26,7 +26,7 @@ Python Projects
 Java Projects
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. ToDo list Application: Implements todo list with adding, mark as completed, displaying and deleting the tasks.
-2. Library Book Management : Designed library management system with various functionalities.
+2. Library Book Management : Designed library management system with various functionalities and using some advanced concepts.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Folder Structure:
