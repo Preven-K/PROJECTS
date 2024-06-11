@@ -2,6 +2,12 @@ Project Repository
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Welcome to my project repository containing projects developed in Verilog VLSI and Python programming languages.
 
+50 Days Verilog Challenge
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Basic Gates : this contains all the basic gate on diffrent modelling types.
+2. Adders : This contains half, full, ripple carry, carry lookahead adders.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Verilog VLSI Projects
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. 4-bit Parallel Shifter: Implements a 4-bit parallel shifter in Verilog.
