@@ -1,0 +1,23 @@
+> Basic app of ATM operations for single user
+> ATM Simulator will simulate behaviour of the ATM
+> Declare Private variables
+
+Functional Req:
+> Fixed Acc : pre create a single bank account with :
+    > acc no : 12345678(long)
+    > Pin : 1234 (int)
+    > Balance : 10,000.00 (float)
+
+> Login with PIN 
+    > max 3 attempts
+
+> Menu operations
+    > Check Balance
+    > Deposit Money
+    > Withdraw Money
+    > Exit
+
+> Validations :
+    > withdraw should not allow the balance to go below 500
+    > deposit and witdraw amounts should be positive
+
